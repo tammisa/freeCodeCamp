@@ -12,7 +12,7 @@ Com o Agile, a ênfase está na "agilidade" - poder responder rapidamente ao fee
 
 ![Uma história em quadrinhos do site Commitstrip.com mostrando um gerente de produto explicando a um desenvolvedor que está mudando para o ágil, mas depois pedindo ao desenvolvedor para planejar tudo na frente](https://www.commitstrip.com/wp-content/uploads/2017/01/Strip-Budegt-fixe-pour-projet-flexible-english650-final.jpg)
 
-Existem muitos sabores diferentes de agilidade, incluindo Scrum e Extreme Programming.
+Existem muitos tipos diferentes de metodologia ágil, incluindo Scrum e Extreme Programming.
 
 ### Mais Informações
 
