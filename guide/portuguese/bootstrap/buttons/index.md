@@ -8,7 +8,7 @@ A estrutura do Bootstrap fornece várias opções de estilo para botões. Esses 
 
 #### Como usar:
 
-Para usar os botões de bootstrap, você segue as mesmas etapas para criar um botão em HTML, exceto que também aplica a classe CSS aplicável ao botão. Um exemplo de código foi fornecido abaixo.
+Para usar os botões de bootstrap, você segue as mesmas etapas para criar um botão em HTML, exceto que também adiciona a classe CSS aplicável ao botão. Um exemplo de código foi fornecido abaixo.
 
 **Exemplo de código:**
 
@@ -82,7 +82,7 @@ Muito pequeno
 
 #### Bootstrap Delineou Botões:
 
-É possível também ter botões delineados em vez de totalmente coloridos nos botões. Isso é conseguido colocando o `outline` correção intermediária entre a classe de botão desejada. Um uso de amostra seria o seguinte:
+É possível também ter botões delineados em vez de totalmente coloridos nos botões. Isso é conseguido colocando o `outline` correção intermediária entre a classe de botão desejada. Um exemplo de uso seria o seguinte:
 
 `<button type="button" class="btn btn-outline-primary">Primary</button>`
 
