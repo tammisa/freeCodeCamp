@@ -12,7 +12,7 @@ Existem certos requisitos que um algoritmo deve respeitar:
 
 1.  Definitividade: Cada passo no processo é precisamente indicado.
 2.  Computabilidade efetiva: Cada etapa do processo pode ser executada por um computador.
-3.  Finiteness: O programa terminará com sucesso.
+3.  Finitude: O programa terminará com sucesso.
 
 Alguns tipos comuns de algoritmos incluem algoritmos de classificação, algoritmos de pesquisa e algoritmos de compactação. As classes de algoritmos incluem Gráfico, Programação Dinâmica, Classificação, Pesquisa, Strings, Matemática, Geometria Computacional, Otimização e Diversos. Embora tecnicamente não seja uma classe de algoritmos, as Estruturas de Dados geralmente são agrupadas com elas.
 
