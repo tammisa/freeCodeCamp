@@ -4,7 +4,7 @@ localeTitle: Robótica
 ---
 ## Robótica
 
-Robótica é sobre os sistemas que compõem os robôs. Não há deificação universal de um robô. Uma definição geralmente aceita é: _Um robô é uma máquina física programável que segue o paradigma do sentido, pensamento e ação_ . Mais especificamente, um robô precisa sentir seu ambiente, usar essa informação como uma entrada para tomar decisões e agir de acordo. Cada sistema neste paradigma é frequentemente um estudo em si. Há uma infinidade de variedades de tipos de robôs e sistemas de componentes. Cada robô geralmente é dedicado a um conjunto de processos com objetivos claros.
+Robótica é sobre os sistemas que compõem os robôs. Não há definição universal de um robô. Uma definição geralmente aceita é: _Um robô é uma máquina física programável que segue o paradigma do sentido, pensamento e ação_ . Mais especificamente, um robô precisa sentir seu ambiente, usar essa informação como uma entrada para tomar decisões e agir de acordo. Cada sistema neste paradigma é frequentemente um estudo em si. Há uma infinidade de variedades de tipos de robôs e sistemas de componentes. Cada robô geralmente é dedicado a um conjunto de processos com objetivos claros.
 
 ### Sentido
 
@@ -20,7 +20,7 @@ Uma vez que o robô tome sua decisão, ele precisa agir de acordo. Para isso, us
 
 ## Coisas essenciais para robótica.
 
-Primeiro, você precisa ter boa quantidade de paciência para o ás na Robótica.
+Primeiro, você precisa ter bastante paciência para ser perito em Robótica.
 
 1) Seja bom em qualquer linguagem de programação para ter um bom controle sobre o código. 2) Aprenda RaspberryPi ou Arduino para o entendimento adequado de eletrônica e lógica. Agora a diferença entre o RaspberryPi e o Arduino é: O RaspberryPi é um SBC (Single-Board-Computer), enquanto o Arduino é apenas um microcontrolador. Portanto, a diferença entre as coisas acima é muito importante. 3) A cinemática inversa é muito importante para a peça de design. Aqui está um bom recurso para aprender [Cinemática Inversa](https://www.intechopen.com/books/industrial_robotics_theory_modelling_and_control/robot_kinematics__forward_and_inverse_kinematics) .
 
