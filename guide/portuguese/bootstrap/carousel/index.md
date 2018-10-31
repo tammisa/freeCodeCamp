@@ -6,7 +6,7 @@ localeTitle: Carrossel
 
 O carrossel é um componente de apresentação de slides para percorrer elementos como imagens ou slides de texto. Ele fornece uma maneira dinâmica de representar uma grande quantidade de dados (texto ou imagens) deslizando ou passando de forma suave
 
-Sample Code of Image Slider está abaixo:
+Um exemplo de código de slide de imagens está abaixo:
 
 ```html
 
