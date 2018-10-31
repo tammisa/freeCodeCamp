@@ -9,7 +9,7 @@ localeTitle: Postais
 *   Cartões são caixas delimitadas com um pouco de preenchimento em torno do conteúdo dentro delas, que podem ser usadas para exibir convenientemente um conjunto específico de informações.
     
 
-##### Para criar uma placa básica do Bootstrap 4, você precisa criar um contêiner `<div>` com a classe `.card` e dentro de outro contêiner `<div>` com a classe `.card-body`
+##### Para criar um card básico do Bootstrap 4, você precisa criar um contêiner `<div>` com a classe `.card` e dentro de outro contêiner `<div>` com a classe `.card-body`
 
 ###### É assim que vai parecer num documento html
 
